@@ -150,4 +150,4 @@ If FPSS helped smooth out your gameplay or saved your electricity bill, consider
 * **بین‌المللی (رمزارز):** حمایت مستقیم از طریق **USDT** روی شبکه‌ی فوق‌العاده سریع و کم‌کارمزد **سولانا (Solana)**.
 * **داخلی (ایران):** حمایت امن ریالی با کارت‌های بانکی از طریق درگاه یکپارچه‌شده‌ی **ریمیت (Reymit)**.
 
-[برای حمایت مالی از FPSS اینجا کلیک کنید.](https://reymit.ir)
+[برای حمایت مالی از FPSS اینجا کلیک کنید.](https://reymit.ir/3RUC3L33)
