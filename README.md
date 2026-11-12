@@ -106,7 +106,8 @@ If FPSS helped smooth out your gameplay or saved your electricity bill, consider
 
 * **دانلود مستقیم:** [FPSS.beta.1.0.zip](https://github.com/3RUC3L33/FPSS/releases/download/FPSS/FPSS.beta.1.0.zip)
 * **صفحه انتشارها (Releases):** [مشاهده در گیتهاب](https://github.com/3RUC3L33/FPSS/releases)
-* **تاییدیه امنیت:** [گزارش اسکن ویروس توتال](https://www.virustotal.com/gui/file/fcd43c9a2571066e641a6bd45518542086e446481a841dd9ee7bd8a90f153e01) (`SHA-256: fcd43c9a2571066e641a6bd45518542086e446481a841dd9ee7bd8a90f153e01`)
+* **تاییدیه امنیت:** [گزارش اسکن ویروس توتال](https://www.virustotal.com/gui/file/fcd43c9a2571066e641a6bd45518542086e446481a841dd9ee7bd8a90f153e01)
+* (`SHA-256: fcd43c9a2571066e641a6bd45518542086e446481a841dd9ee7bd8a90f153e01`)
 
 > **راهنمای سریع:** فایل `FPSS.beta.1.0.zip` را از حالت فشرده خارج کرده و فایل `FPSS.exe` را اجرا کنید. در صورتی که یک بازی محافظت ‌شده به دسترسی ادمین نیاز داشته باشد، برنامه به صورت خودکار به شما اطلاع خواهد داد.
 >
