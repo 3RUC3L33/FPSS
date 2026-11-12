@@ -3,7 +3,7 @@
 ##[![VirusTotal Scan](https://shields.io)](https://www.virustotal.com/gui/file/fcd43c9a2571066e641a6bd45518542086e446481a841dd9ee7bd8a90f153e01)
 **SHA-256:** `fcd43c9a2571066e641a6bd45518542086e446481a841dd9ee7bd8a90f153e01`
 
-**FPSS (FPS Stabilizer)** is a lightweight utility designed to eliminate screen tearing, reduce input latency, and optimize power consumption by intelligently managing your game's frame rates. By aligning your hardware output with your display’s capabilities, FPSS ensures the smoothest possible gaming experience.
+##FPSS (FPS Stabilizer)** is a lightweight utility designed to eliminate screen tearing, reduce input latency, and optimize power consumption by intelligently managing your game's frame rates. By aligning your hardware output with your display’s capabilities, FPSS ensures the smoothest possible gaming experience.
 
 ---
 <div align="center">
