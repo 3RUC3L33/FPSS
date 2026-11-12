@@ -2,9 +2,6 @@
 
 [![VirusTotal Scan](https://shields.io)](https://www.virustotal.com/gui/file/fcd43c9a2571066e641a6bd45518542086e446481a841dd9ee7bd8a90f153e01)
 **SHA-256:** `fcd43c9a2571066e641a6bd45518542086e446481a841dd9ee7bd8a90f153e01`
-## 📄 License
-**FPSS (FPS Stabilizer)** is closed-source freeware. You are free to download and use the compiled application for personal use, but redistribution, modification, and reverse engineering are prohibited. See the [LICENSE](LICENSE) file for full details.
-
 **FPSS (FPS Stabilizer)** is a lightweight utility designed to eliminate screen tearing, reduce input latency, and optimize power consumption by intelligently managing your game's frame rates. By aligning your hardware output with your display’s capabilities, FPSS ensures the smoothest possible gaming experience.
 
 ---
@@ -79,7 +76,10 @@ If FPSS helped smooth out your gameplay or saved your electricity bill, consider
 
 * **Global (Crypto):** Support directly with **USDT** over the high-speed, ultra-low fee **Solana Network**.
 * **Local (Iran):** Safely donate using Iranian Tomans (IRT) via our integrated **Reymit** payment gateway.
-  
+
+  ## 📄 License
+**FPSS (FPS Stabilizer)** is closed-source freeware. You are free to download and use the compiled application for personal use, but redistribution, modification, and reverse engineering are prohibited. See the [LICENSE](LICENSE) file for full details.
+
 [برای حمایت مالی از FPSS اینجا کلیک کنید.](https://reymit.ir/3RUC3L33)
 
 # برنامه‌ی FPSS (تثبیت‌کننده‌ی نرخ فریم)
@@ -158,3 +158,6 @@ If FPSS helped smooth out your gameplay or saved your electricity bill, consider
 * **داخلی (ایران):** حمایت امن ریالی با کارت‌های بانکی از طریق درگاه یکپارچه‌شده‌ی **ریمیت (Reymit)**.
 
 [برای حمایت مالی از FPSS اینجا کلیک کنید.](https://reymit.ir/3RUC3L33)
+
+## 📄 مجوز استفاده (License)
+**برنامهی FPSS (تثبیتکنندهی نرخ فریم)** یک نرمافزار رایگان و متن‌بسته (Closed-Source Freeware) است. شما میتوانید نسخهی کامپایل‌شدهی این برنامه را برای استفاده‌ی شخصی دانلود و اجرا کنید، اما بازنشر، تغییر دادن و مهندسی معکوس (Reverse Engineering) آن ممنوع است. برای مشاهدهی جزئیات کامل، فایل [LICENSE](LICENSE) را مطالعه کنید.
