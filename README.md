@@ -4,7 +4,7 @@
 
 ---
 <div align="center">
-  <img src="(https://github.com/3RUC3L33/FPSS/blob/main/appinterface.png)" alt="FPSS App Interface" width="700" />
+  <img src="https://github.com/3RUC3L33/FPSS/blob/main/appinterface.png" alt="FPSS App Interface" width="700" />
 </div>
 ## 🚀 Key Features
 
