@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="zGRnce_4DmAh996dCl9Et13Kcul0HiRvz1mTpTaISjs" />
 # FPSS (FPS Stabilizer)
 
 **FPSS (FPS Stabilizer)** is a lightweight utility designed to eliminate screen tearing, reduce input latency, and optimize power consumption by intelligently managing your game's frame rates. By aligning your hardware output with your display’s capabilities, FPSS ensures the smoothest possible gaming experience.
