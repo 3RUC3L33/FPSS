@@ -1,9 +1,18 @@
 # FPSS (FPS Stabilizer)
 
-[![VirusTotal Scan](https://shields.io)](https://virustotal.com) **SHA-256:** `fcd43c9a2571066e641a6bd45518542086e446481a841dd9ee7bd8a90f153e01`
-
 **FPSS (FPS Stabilizer)** is a lightweight utility designed to eliminate screen tearing, reduce input latency, and optimize power consumption by intelligently managing your game's frame rates. By aligning your hardware output with your display's capabilities, FPSS ensures the smoothest possible gaming experience.
 
+## 📥 Download
+
+Download FPSS Beta 1.0
+
+* **Direct Download:** [FPSS.beta.1.0.zip](https://github.com/3RUC3L33/FPSS/releases/download/FPSS/FPSS.beta.1.0.zip)
+* **All Releases & Notes:** [GitHub Releases Page](https://github.com/3RUC3L33/FPSS/releases)
+* **Security Verification:** [VirusTotal Scan Report](https://www.virustotal.com/gui/file/fcd43c9a2571066e641a6bd45518542086e446481a841dd9ee7bd8a90f153e01) (`SHA-256: fcd43c9a2571066e641a6bd45518542086e446481a841dd9ee7bd8a90f153e01`)
+
+> **Quick Start:** Extract `FPSS.beta.1.0.zip` into a folder and run `FPSS.exe`. If a protected game requires elevated permissions, FPSS will automatically prompt you to relaunch with administrator rights.
+>
+> **Reset Settings:** To reset FPSS back to its default settings, close the app and delete the `config.ini` file located right next to `FPSS.exe`.
 
 <div align="center">
   <img src="https://github.com/3RUC3L33/FPSS/blob/main/appinterface.png" alt="FPSS App Interface" width="700" />
