@@ -1,4 +1,7 @@
+<a id="english"></a>
 # FPSS (FPS Stabilizer)
+
+### [🇺🇸 English](#english) | [🇮🇷 فارسی](#persian)
 
 **FPSS (FPS Stabilizer)** is a lightweight utility designed to eliminate screen tearing, reduce input latency, and optimize power consumption by intelligently managing your game's frame rates. By aligning your hardware output with your display's capabilities, FPSS ensures the smoothest possible gaming experience.
 
@@ -91,8 +94,7 @@ If FPSS helped smooth out your gameplay or saved your electricity bill, consider
   ## 📄 License
 **FPSS (FPS Stabilizer)** is closed-source freeware. You are free to download and use the compiled application for personal use, but redistribution, modification, and reverse engineering are prohibited. See the [LICENSE](LICENSE) file for full details.
 
-[برای حمایت مالی از FPSS اینجا کلیک کنید.](https://reymit.ir/3RUC3L33)
-
+<a id="persian"></a>
 # برنامه‌ی FPSS (تثبیت‌کننده‌ی نرخ فریم)
 
 **برنامه‌ی FPSS (مخفف FPS Stabilizer)** یک ابزار سبک است که با مدیریت هوشمندانه‌ی نرخ فریم بازی‌ها، پارگی تصویر (Screen Tearing) را از بین می‌برد، تاخیر ورودی (Input Latency) را کاهش می‌دهد و مصرف برق سیستم را بهینه‌سازی می‌کند. برنامه‌ی FPSS با هماهنگ‌سازی خروجی سخت‌افزار با قابلیت‌های مانیتور شما، روان‌ترین تجربه‌ی ممکن در بازی‌ها را تضمین می‌کند.
