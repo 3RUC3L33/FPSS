@@ -18,7 +18,7 @@ Download FPSS Beta 1.0
 > **Reset Settings:** To reset FPSS back to its default settings, close the app and delete the `config.ini` file located right next to `FPSS.exe`.
 
 <div align="center">
-  <img src="https://github.com/3RUC3L33/FPSS/blob/main/appinterface.png" alt="FPSS App Interface" width="700" />
+  <img src="https://github.com/3RUC3L33/FPSS/blob/main/assets/appinterface.png" alt="FPSS App Interface" width="700" />
 </div>
 
 ---
