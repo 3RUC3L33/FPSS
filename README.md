@@ -23,6 +23,8 @@ Download FPSS Beta 1.0
 * **Do Not Target Protected Games:** Never select a game protected by anti-cheat software (e.g., Vanguard, Easy Anti-Cheat, BattlEye, VAC) inside the FPSS target list.
 * **Hooking Triggers Detection:** Once a target is selected, FPSS actively attempts to hook into that process. Anti-cheat drivers treat external hooking as malicious interference and will likely issue an immediate or delayed account ban.
 * **No Liability:** You are solely responsible for the processes you choose to hook. The developer is not responsible for any banned or suspended accounts.
+* **Examples of Protected Games (DO NOT HOOK):** *Valorant, Counter-Strike 2, Fortnite, Apex Legends, Call of Duty, Rainbow Six Siege, Escape from Tarkov, PUBG, Destiny 2, Rust, League of Legends.*
+* **Examples of Safe Games (Offline / No Anti-Cheat):** *Cyberpunk 2077, The Witcher 3, Red Dead Redemption 2 (Story Mode), Skyrim, Baldur's Gate 3, DOOM Eternal, Hogwarts Legacy.*
 
 <div align="center">
   <img src="https://github.com/3RUC3L33/FPSS/blob/main/assets/appinterface.png" alt="FPSS App Interface" width="700" />
@@ -119,13 +121,18 @@ If FPSS helped smooth out your gameplay or saved your electricity bill, consider
 > **راهنمای سریع:** فایل `FPSS.beta.1.0.zip` را از حالت فشرده خارج کرده و فایل `FPSS.exe` را اجرا کنید. در صورتی که یک بازی محافظت ‌شده به دسترسی ادمین نیاز داشته باشد، برنامه به صورت خودکار به شما اطلاع خواهد داد.
 >
 > **بازنشانی تنظیمات (Reset):** برای بازگرداندن برنامه به تنظیمات پیش‌فرض، ابتدا برنامه را ببندید و فایل `fpss.ini` که در کنار فایل اجرایی `FPSS.exe` قرار دارد را حذف کنید.
+<div dir="rtl">
 
 ## ⚠️ هشدار آنتی‌چیت (ضد تقلب)
 
 * **امن در حالت آماده به کار (Idle):** باز گذاشتن FPSS در پس‌زمینه باعث فعال شدن سیستم‌های آنتی‌چیت نمی‌شود، زیرا این برنامه به صورت خودکار به هیچ برنامه‌ای تزریق (Inject) یا متصل (Hook) نمی‌شود.
 * **بازی‌های دارای آنتی‌چیت را انتخاب نکنید:** هرگز بازی‌هایی را که توسط نرم‌افزارهای آنتی‌چیت (مانند Vanguard، Easy Anti-Cheat، BattlEye، VAC و غیره) محافظت می‌شوند، در لیست اهداف FPSS انتخاب نکنید.
-* **عملکرد Hook باعث شناسایی می‌شود:** به محض انتخاب یک برنامه، FPSS تلاش می‌کند تا به آن پردازش متصل (Hook) شود. درایورهای آنتی‌چیت این اتصال خارجی را به عنوان دخالت مخرب شناسایی می‌کنند و به احتمال زیاد منجر به مسدود شدن (بن) فوری یا با تأخیر (بن) حساب کاربری شما می‌شوند.
+* **عملکرد Hook باعث شناسایی می‌شود:** به محض انتخاب یک برنامه، FPSS تلاش می‌کند تا به آن پردازش متصل (Hook) شود. درایورهای آنتی‌چیت این اتصال خارجی را به عنوان دخالت مخرب شناسایی می‌کنند و به احتمال زیاد منجر به مسدود شدن (بن) فوری یا با تأخیر حساب کاربری شما می‌شوند.
+* **نمونه بازی‌های محافظت‌شده (متصل نشوید):** *Valorant، Counter-Strike 2، Fortnite، Apex Legends، Call of Duty، Rainbow Six Siege، Escape from Tarkov، PUBG، Destiny 2، Rust، League of Legends.*
+* **نمونه بازی‌های ایمن (آفلاین / بدون آنتی‌چیت):** *Cyberpunk 2077، The Witcher 3، Red Dead Redemption 2 (بخش داستانی)، Skyrim، Baldur's Gate 3، DOOM Eternal، Hogwarts Legacy.*
 * **سلب مسئولیت:** مسئولیت انتخاب پردازش‌هایی که به آن‌ها متصل می‌شوید تماماً بر عهده خود شماست. توسعه‌دهنده هیچ مسئولیتی در قبال بن شدن یا تعلیق حساب‌های کاربری ندارد.
+
+</div>
 
 ## 🚀 ویژگی‌های کلیدی
 
